@@ -57,7 +57,7 @@ src/
 ## 📸 Sample Output
 
 ### 🧾 Add Student
-![Add Student](https://github.com/yourusername/your-repo-name/assets/yourimage1)
+![Add Student](https://private-user-images.githubusercontent.com/157011541/468553743-96485fc4-785a-4dd7-811e-feb064e52003.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMwOTE3NTUsIm5iZiI6MTc1MzA5MTQ1NSwicGF0aCI6Ii8xNTcwMTE1NDEvNDY4NTUzNzQzLTk2NDg1ZmM0LTc4NWEtNGRkNy04MTFlLWZlYjA2NGU1MjAwMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyMVQwOTUwNTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMjJiMjllZmRkZWFjNGFlZmRkODVjYzNlZWE3MmFmMTBiOTRhN2UzYTBkYmFmMzQyM2U2YjhkNTY4M2M0N2ZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.IC7ysLJhEfpwzmH34qaAguyfeTDwHp7TfOqJ2d-HM4U)
 
 ### 📊 View All Students
 ![View Students](https://github.com/yourusername/your-repo-name/assets/yourimage2)
