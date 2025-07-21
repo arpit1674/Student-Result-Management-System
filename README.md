@@ -56,10 +56,10 @@ src/
 ## 📸 Sample Output
 
 ### 🧾 Add Student
-![Add Student](https://github.com/arpit1674/Student-Result-Management-System/issues/2#issue-3247962693)
+![Add Student](images/addStudent.png)
 
 ### 📊 View All Students
-![View Students](https://github.com/arpit1674/Student-Result-Management-System/issues/1#issue-3247940029)
+![View Students](images/viewAllStudent.png)
 
 ---
 
