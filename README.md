@@ -66,7 +66,7 @@ src/
 ## 👤 Author
 
 **Arpit Dhakar**  
-B.Tech Student | Aspiring Java Developer  
+B.Tech Student
 🔗 [LinkedIn](https://www.linkedin.com/in/arpit-dhakar-5470672b5/)  
 💻 [GitHub](https://github.com/arpit1674)
 
