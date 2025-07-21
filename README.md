@@ -28,7 +28,7 @@ A simple **console-based Java application** to add, manage, and view student res
 
 ## 📂 Project Structure
 
-src/
+src/  
 ├── Student.java # Model class for student info  
 ├── StudentResultSystem.java # Logic and menu  
 └── Main.java # Main method (only method calls)
