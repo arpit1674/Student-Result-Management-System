@@ -56,10 +56,10 @@ src/
 ## 📸 Sample Output
 
 ### 🧾 Add Student
-![Add Student]()
+![Add Student](https://github.com/arpit1674/Student-Result-Management-System/issues/2#issue-3247962693)
 
 ### 📊 View All Students
-![View Students](https://private-user-images.githubusercontent.com/157011541/468557475-592d395c-c150-4972-8b22-d7c0a20e6cda.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMwOTIyMDYsIm5iZiI6MTc1MzA5MTkwNiwicGF0aCI6Ii8xNTcwMTE1NDEvNDY4NTU3NDc1LTU5MmQzOTVjLWMxNTAtNDk3Mi04YjIyLWQ3YzBhMjBlNmNkYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyMVQwOTU4MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYmNmNGJlMmNmN2U5YjIwY2FjOGU4MTI5YmM2NGYzNWZiODUwNGEwNTQ2NmUwNWExMDYzNDg4MDAwNmIxYjFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KsdWODEkd-1sQl2w8oBgn8B6QkIXgm9D-TfUiPnqtzY)
+![View Students]()
 
 ---
 
